@@ -1,0 +1,12 @@
+Prefix: "&8[&4&lServerListSpoof&8] &c"
+Permission: "serverlistspoof.reload"
+ReportValueMax: 200
+BungeeReporting: false
+
+ServerLists:
+  MCSL_&_MP:
+    ProtocolVersion: 4
+    MultiplyAmount: 2.5
+  MinecraftServersOrg:
+    ProtocolVersion: 109
+    MultiplyAmount: 2.5
