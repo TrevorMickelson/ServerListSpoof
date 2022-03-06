@@ -4,8 +4,8 @@ Basically, this plugin displays inaccurate number data on serverlist sites, but 
 Here's are example servers that do this. It's a common tactic to get more joins.
 
 ### Here's how they look on the server list website 
-<img src="https://user-images.githubusercontent.com/70197204/156938373-628b2594-460c-4a16-9a65-c3c52d1a8b37.png" height="150" width="400">
 <img src="https://user-images.githubusercontent.com/70197204/156938371-54133e97-6398-4da5-910b-19b083a18d5e.png" height="150" width="400">
+<img src="https://user-images.githubusercontent.com/70197204/156938373-628b2594-460c-4a16-9a65-c3c52d1a8b37.png" height="150" width="400">
 
 ### Here's how they look in game
 ![serverlistspoof-screenshot_3](https://user-images.githubusercontent.com/70197204/156938385-691af40b-84e6-47b0-9541-dcf795737467.png)
